@@ -23,4 +23,4 @@ The data engineering process followed a structured approach within the Jupyter N
 6. **Financial Aggregation:** Computed the final accurate operational budget for March and segmented expenses by department to highlight the top spending centers.
 
 ## Repository Contents
-* `DataCleaning_Analyse.ipynb`: The complete, fully documented Jupyter Notebook containing the Python/Pandas code.
+* `DataCleaning_Analysis.ipynb`: The complete, fully documented Jupyter Notebook containing the Python/Pandas code.
